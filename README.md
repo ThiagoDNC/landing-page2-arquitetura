@@ -1,2 +1,4 @@
 # landing-page2-arquitetura
-Esse é o Desafio 1 da DNC para desenvolva uma Landing Page 
+Esse é o Desafio 1 da DNC para desenvolva uma Landing Page
+link do site disponibilizado:
+link da planilha de registro de informação: https://l1nk.dev/Planilhaderegistro
